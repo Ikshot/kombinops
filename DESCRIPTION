@@ -1,0 +1,16 @@
+Package: kombinops
+Type: Package
+Title: Basic operations from enumerative combinatorics
+Version: 1.0.0
+Date: 2017-11-28
+Depends: R (>= 3.0.0)
+Author: Valeriy V. Artukhin
+Maintainer: Valeriy V. Artukhin <ikshot@mail.ru>
+Description: Allows to calculate the number of possible combinations and
+             permutations with or without repetition.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
